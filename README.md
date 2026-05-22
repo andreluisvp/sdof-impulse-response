@@ -25,10 +25,10 @@ The project investigates the dynamic behavior of mechanical systems under impuls
 ## Example Results
 
 ### Impulse Response
-(figure will be added here)
+![Impulse Response](impulse_response.png)
 
 ### Frequency Response Function
-(figure will be added here)
+![FRF](frf_response.png)
 
 ## Technologies
 
