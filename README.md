@@ -1,5 +1,6 @@
 # sdof-impulse-response
-Impulse response and frequency response analysis of damped mechanical systems using MATLAB
+Analytical and numerical vibration analysis of damped single degree-of-freedom (SDOF) mechanical systems using MATLAB.
+
 # SDOF Impulse Response Analysis
 
 This repository contains vibration analysis studies for damped single degree-of-freedom (SDOF) mechanical systems using MATLAB.
